@@ -59,10 +59,10 @@ cd logging_middleware && npm install && npm run build
 
 # 2. Register and grab clientID/clientSecret
 npm run register -- \
-  --email raktimchandra26@gmail.com \
+  --email rc8823@srmist.edu.in \
   --name "Raktim Chandra" \
-  --mobile 9999999999 \
-  --github <your-github-username> \
+  --mobile 9832288101 \
+  --github <RaktimChandra> \
   --roll RA2311033010038 \
   --access QkbpxH
 
